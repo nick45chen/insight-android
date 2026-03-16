@@ -1,0 +1,10 @@
+# Target app package name
+targetPackageName=com.example.target
+
+# Keystore file path (relative to app/ directory)
+storeFile=release.keystore
+
+# Signing credentials (must match the target app's signing key)
+storePassword=
+keyAlias=
+keyPassword=

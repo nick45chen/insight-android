@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git:*)",
+      "Bash(grep:*)",
+      "Bash(find:*)",
+      "Bash(./gradlew assembleDebug 2>&1 | tail -30)",
+      "Bash(ls:*)",
+      "Bash(keytool:*)",
+      "Bash(./gradlew assembleDebug 2>&1 | tail -15)",
+      "Bash(./gradlew assembleDebug 2>&1 | tail -10)"
+    ]
+  }
+}
